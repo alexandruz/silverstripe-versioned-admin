@@ -60,7 +60,7 @@
     "webpack": "^2.6.0"
   },
   "dependencies": {
-    "apollo-client": "^2.4.2",
+    "apollo-client": "^2.6.10",
     "babel-polyfill": "6.7.4",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.5",
